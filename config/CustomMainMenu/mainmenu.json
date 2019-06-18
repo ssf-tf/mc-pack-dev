@@ -1,0 +1,193 @@
+{ 		
+    "buttons":
+    {    
+ 	"con":
+        {
+            "text" : "",
+		"texture" : "mainmenu:ar.png",
+            "posX" : -31,
+            "posY" : -30,
+            "width" : 60,
+            "height" : 30,
+			imageWidth : 180,
+			imageHeight : 90,
+			"alignment" : "bottom_center",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "mc.ssf.tf"
+            }
+        },
+		"Singleplayer":
+        {
+            "text" : "",
+			"texture" : "mainmenu:ssp.png",
+            "posX" : -150,
+            "posY" : 0,
+            "width" : 160,
+            "height" : 80,
+			imageWidth : 120,
+			imageHeight : 75,
+			"alignment" : "top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },		
+		"Multiplayer":
+        {
+            "text" : "",
+			"texture" : "mainmenu:smp.png",
+            "posX" : -10,
+            "posY" : 0,
+            "width" : 160,
+            "height" : 80,
+			imageWidth : 120,
+			imageHeight : 75,
+			"alignment" : "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "Quit":
+        {
+            "text" : "menu.quit",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "mainmenu:clear.png",
+            "posX" : -105,
+            "posY" : -25,
+            "width" : 100,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "bottom_right",
+			"hoverText" : "Better be back :P",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "Mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 6710886,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:clear.png",
+            "posX" : 5,
+            "posY" : -25,
+            "width" : 96,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+	
+	"Options":
+        {
+            "text" : "menu.options",
+			"texture" : "mainmenu:clear.png",
+            "posX" : 5,
+            "posY" : -50,
+            "width" : 96,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		
+		"Refresh":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : -50,
+            "width" : 20,
+            "height" : 20,
+			imageWidth : 64,
+			imageHeight : 64,
+			"alignment" : "bottom_left",
+            "texture" : "mainmenu:reload.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"GitHub":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			imageWidth : 64,
+			imageHeight : 64,
+			"alignment" : "bottom_left",
+            "texture" : "mainmenu:github.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/ssf-tf"
+            }
+        },
+		
+		"Language":
+        {
+            "text" : "",
+			"texture" : "mainmenu:lang.png",
+            "posX" : 130,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			imageWidth : 64,
+			imageHeight : 64,			
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+	"accounts":
+	{
+		"text" : "#username#",
+            "posX" : 5,
+            "posY" : -75,
+            "width" : 96,
+            "height" : 20,
+		"alignment" : "bottom_left",
+		"texture": "mainmenu:clear.png",
+		"wrappedButton" : 20,
+		"tooltip" : "Re-login menu"
+	}
+	},
+    
+    "other":
+    {
+		"background":
+		{
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["mainmenu:sfs1.jpg","mainmenu:sfs2.jpg","mainmenu:sfs3.jpg","mainmenu:sfs4.jpg","mainmenu:sfs5.jpg","mainmenu:sfs6.jpg","mainmenu:sfs7.jpg","mainmenu:sfs8.jpg","mainmenu:sfs9.jpg"],
+                "displayDuration" : 1,
+                "fadeDuration" : 0
+            }
+		}
+    }
+}

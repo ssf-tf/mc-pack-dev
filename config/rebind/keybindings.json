@@ -1,0 +1,120 @@
+{
+"mc_attack": { "holder": "", "name": "", "category": "mc.gameplay", "key": -100, "mod": "", "enabled": true},
+"mc_use": { "holder": "", "name": "", "category": "mc.gameplay", "key": -99, "mod": "", "enabled": true},
+"mc_pickitem": { "holder": "", "name": "", "category": "mc.gameplay", "key": -98, "mod": "", "enabled": true},
+
+"mc_forward": { "holder": "", "name": "", "category": "mc.movement", "key": 17, "mod": "", "enabled": true},
+"mc_left": { "holder": "", "name": "", "category": "mc.movement", "key": 30, "mod": "", "enabled": true},
+"mc_back": { "holder": "", "name": "", "category": "mc.movement", "key": 31, "mod": "", "enabled": true},
+"mc_right": { "holder": "", "name": "", "category": "mc.movement", "key": 32, "mod": "", "enabled": true},
+"mc_jump": { "holder": "", "name": "", "category": "mc.movement", "key": 57, "mod": "", "enabled": true},
+"mc_sneak": { "holder": "", "name": "", "category": "mc.movement", "key": 42, "mod": "", "enabled": true},
+"mc_sprint": { "holder": "", "name": "", "category": "mc.movement", "key": 29, "mod": "", "enabled": true},
+
+"mc_inventory": { "holder": "", "name": "", "category": "mc.inventory", "key": 18, "mod": "", "enabled": true},
+"mc_hotbar_1": { "holder": "", "name": "", "category": "mc.inventory", "key": 2, "mod": "", "enabled": true},
+"mc_hotbar_2": { "holder": "", "name": "", "category": "mc.inventory", "key": 3, "mod": "", "enabled": true},
+"mc_hotbar_3": { "holder": "", "name": "", "category": "mc.inventory", "key": 4, "mod": "", "enabled": true},
+"mc_hotbar_4": { "holder": "", "name": "", "category": "mc.inventory", "key": 5, "mod": "", "enabled": true},
+"mc_hotbar_5": { "holder": "", "name": "", "category": "mc.inventory", "key": 6, "mod": "", "enabled": true},
+"mc_hotbar_6": { "holder": "", "name": "", "category": "mc.inventory", "key": 7, "mod": "", "enabled": true},
+"mc_hotbar_7": { "holder": "", "name": "", "category": "mc.inventory", "key": 8, "mod": "", "enabled": true},
+"mc_hotbar_8": { "holder": "", "name": "", "category": "mc.inventory", "key": 9, "mod": "", "enabled": true},
+"mc_hotbar_9": { "holder": "", "name": "", "category": "mc.inventory", "key": 10, "mod": "", "enabled": true},
+"mc_drop": { "holder": "", "name": "", "category": "mc.inventory", "key": 16, "mod": "", "enabled": true},
+"mc_swaphands": { "holder": "", "name": "", "category": "mc.inventory", "key": 33, "mod": "", "enabled": true},
+
+"rebind_quit": { "holder": "", "name": "", "category": "mc.misc", "key": 1, "mod": "", "enabled": true},
+"rebind_hidehud": { "holder": "", "name": "", "category": "mc.misc", "key": 59, "mod": "", "enabled": true},
+"mc_screenshot": { "holder": "", "name": "", "category": "mc.misc", "key": 60, "mod": "", "enabled": true},
+"rebind_debugscreen": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": true},
+"rebind_switchshader": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+"mc_toggleperspective": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+"mc_fullscreen": { "holder": "", "name": "", "category": "Mode Switch", "key": 87, "mod": "", "enabled": true},
+"mc_advancements": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+"rebind_narrator": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+"mc_smoothcamera": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+"mc_spectatoroutlines": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": false},
+
+"mc_savetoolbaractivator": { "holder": "", "name": "", "category": "mc.creative", "key": 46, "mod": "", "enabled": false},
+"mc_loadtoolbaractivator": { "holder": "", "name": "", "category": "mc.creative", "key": 45, "mod": "", "enabled": false},
+
+"mc_chat": { "holder": "", "name": "", "category": "mc.multiplayer", "key": 20, "mod": "", "enabled": true},
+"mc_command": { "holder": "", "name": "", "category": "mc.multiplayer", "key": 53, "mod": "", "enabled": true},
+"mc_playerlist": { "holder": "", "name": "", "category": "mc.multiplayer", "key": 15, "mod": "", "enabled": true},
+
+"advancedrocketry_toggle_jetpack": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_open_rocket_gui": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_toggle_rcs": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_rotate_rocket_left": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_rotate_rocket_right": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_move_rocket_up": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+"advancedrocketry_move_rocket_down": { "holder": "", "name": "", "category": "Advanced Rocketry", "key": 0, "mod": "", "enabled": true},
+
+"baublesbindinventory": { "holder": "", "name": "", "category": "Baubles", "key": 0, "mod": "", "enabled": false},
+
+"carryon_carry_desc": { "holder": "", "name": "", "category": "Carry On", "key": 42, "mod": "", "enabled": true},
+
+"cofhcore_cofh_multimode": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+
+"corpse_death_history": { "holder": "", "name": "", "category": "Corpse", "key": 52, "mod": "", "enabled": true},
+
+"cyberwarebinds_menu": { "holder": "", "name": "", "category": "Mode Switch", "key": 51, "mod": "", "enabled": true},
+
+"fishingmadebetter_reelin": { "holder": "", "name": "", "category": "Fishing Made Better", "key": 23, "mod": "", "enabled": true},
+"fishingmadebetter_reelout": { "holder": "", "name": "", "category": "Fishing Made Better", "key": 37, "mod": "", "enabled": true},
+
+"forgemultipartcbe_control": { "holder": "", "name": "", "category": "Forge Multipart CBE", "key": 0, "mod": "", "enabled": true},
+
+"immersiveengineering_magnetequip": { "holder": "", "name": "", "category": "Immersive Engineering", "key": 0, "mod": "", "enabled": false},
+"immersiveengineering_chemthrowerswitch": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+
+"ic2_alt": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+"ic2_boost": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+"ic2_mode_switch": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+"ic2_side_inventory": { "holder": "", "name": "", "category": "IndustrialCraft 2", "key": 46, "mod": "", "enabled": false},
+"ic2_hub_expand": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "", "enabled": true},
+
+"jei_toggleoverlay": { "holder": "", "name": "", "category": "JEI", "key": 24, "mod": "CONTROL", "enabled": true},
+"jei_focussearch": { "holder": "", "name": "", "category": "JEI", "key": 33, "mod": "CONTROL", "enabled": true},
+"jei_togglecheatmode": { "holder": "", "name": "", "category": "JEI", "key": 0, "mod": "", "enabled": false},
+"jei_toggleeditmode": { "holder": "", "name": "", "category": "JEI", "key": 0, "mod": "", "enabled": false},
+"jei_showrecipe": { "holder": "", "name": "", "category": "JEI", "key": 19, "mod": "", "enabled": true},
+"jei_showuses": { "holder": "", "name": "", "category": "JEI", "key": 22, "mod": "", "enabled": true},
+"jei_recipeback": { "holder": "", "name": "", "category": "JEI", "key": 14, "mod": "", "enabled": true},
+"jei_previouspage": { "holder": "", "name": "", "category": "JEI", "key": 201, "mod": "", "enabled": false},
+"jei_nextpage": { "holder": "", "name": "", "category": "JEI", "key": 209, "mod": "", "enabled": false},
+"jei_bookmark": { "holder": "", "name": "", "category": "JEI", "key": 30, "mod": "", "enabled": true},
+"jei_togglebookmarkoverlay": { "holder": "", "name": "", "category": "Just Enough Items", "key": 0, "mod": "", "enabled": true},
+
+"keywizardwizardbind_openkeyboardwizard": { "holder": "", "name": "", "category": "mc.misc", "key": 61, "mod": "", "enabled": true},
+
+"laggoggles_profile_gui": { "holder": "", "name": "", "category": "mc.misc", "key": 0, "mod": "", "enabled": true},
+
+"openglasses_interact": { "holder": "", "name": "", "category": "OpenGlasses", "key": 0, "mod": "", "enabled": true},
+"openglasses_nightvision": { "holder": "", "name": "", "category": "OpenGlasses", "key": 0, "mod": "", "enabled": true},
+
+"railcraftbind_cart_bed": { "holder": "", "name": "", "category": "Railcraft", "key": 0, "mod": "", "enabled": true},
+"railcraftbind_loco_reverse": { "holder": "", "name": "", "category": "Railcraft", "key": 0, "mod": "ALT", "enabled": true},
+"railcraftbind_loco_faster": { "holder": "", "name": "", "category": "Railcraft", "key": 0, "mod": "ALT", "enabled": true},
+"railcraftbind_loco_slower": { "holder": "", "name": "", "category": "Railcraft", "key": 0, "mod": "ALT", "enabled": true},
+"railcraftbind_loco_mode": { "holder": "", "name": "", "category": "Mode Switch", "key": 0, "mod": "ALT", "enabled": true},
+"railcraftbind_loco_whistle": { "holder": "", "name": "", "category": "Railcraft", "key": 0, "mod": "ALT", "enabled": true},
+
+"rebind_clipboardpaste": { "holder": "", "name": "", "category": "ReBind", "key": 210, "mod": "", "enabled": false},
+
+"inventorysorter_sort": { "holder": "", "name": "", "category": "Inventory sorter", "key": -98, "mod": "", "enabled": true},
+"inventorysorter_itemin": { "holder": "", "name": "", "category": "Inventory sorter", "key": -200, "mod": "", "enabled": true},
+"inventorysorter_itemout": { "holder": "", "name": "", "category": "Inventory sorter", "key": -201, "mod": "", "enabled": true},
+
+"thaumcraft_change_caster_focus": { "holder": "", "name": "", "category": "Mode Switch", "key": 34, "mod": "", "enabled": true},
+"thaumcraft_misc_caster_toggle": { "holder": "", "name": "", "category": "Thaumcraft", "key": 0, "mod": "", "enabled": false},
+
+"toastcontrol_clear": { "holder": "", "name": "", "category": "Toast Control", "key": 36, "mod": "", "enabled": false},
+
+"toolbelt_open": { "holder": "", "name": "", "category": "Tool Belt", "key": 19, "mod": "", "enabled": true},
+"toolbelt_cycle_left": { "holder": "", "name": "", "category": "Tool Belt", "key": 0, "mod": "", "enabled": false},
+"toolbelt_cycle_right": { "holder": "", "name": "", "category": "Tool Belt", "key": 0, "mod": "", "enabled": false},
+
+"walljump": { "holder": "", "name": "", "category": "Wall-Jump!", "key": 42, "mod": "", "enabled": true}
+}
