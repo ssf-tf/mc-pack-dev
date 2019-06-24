@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ModList>
+<Mod name="incontrol">incontrol</Mod>
 <Mod name="smoothfontcore">smoothfontcore</Mod>
 <Mod name="smoothfont">smoothfont</Mod>
 <Mod name="cloudcontrol">cloudcontrol</Mod>
@@ -64,7 +65,6 @@
 <Mod name="customloadingscreen">customloadingscreen</Mod>
 <Mod name="custommainmenu">custommainmenu</Mod>
 <Mod name="despawningspawners">despawningspawners</Mod>
-<Mod name="dynamictrees">dynamictrees</Mod>
 <Mod name="embers">embers</Mod>
 <Mod name="ftblib">ftblib</Mod>
 <Mod name="shetiphiancore">shetiphiancore</Mod>
