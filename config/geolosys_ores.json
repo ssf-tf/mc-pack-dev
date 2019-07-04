@@ -82,8 +82,8 @@
   "limonite": {
     "minY": 6,
     "maxY": 32,
-    "chance": 6,
-    "size": 84,
+    "chance": 2,
+    "size": 94,
     "blacklist": [
       -1,
       1
