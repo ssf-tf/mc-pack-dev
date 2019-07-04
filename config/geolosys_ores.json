@@ -42,7 +42,7 @@
   "quartz": {
     "minY": 6,
     "maxY": 29,
-    "chance": 2,
+    "chance": 3,
     "size": 128,
     "blacklist": [
       -1,
